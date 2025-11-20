@@ -11,4 +11,4 @@ My public profile
 - 🗃️ Database: SQL
 
 ## Studies
-(C:\Users\PC\Desktop\Diploma DS)
+<img width="900" height="700" alt="Image" src="https://github.com/user-attachments/assets/b79b42be-224c-4dfe-953e-100d077b1068" />
