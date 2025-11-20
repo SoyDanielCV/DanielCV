@@ -1,6 +1,7 @@
-# SoyDanielCV 
-My public profile
+# Daniel C. Velázquez, Data Scientist Jr.
+## Hola, mi nombre es Daniel, tengo 21 años de edad, soy originario de México y soy un científico de datos jr, disfruto de resolver problemáticas de la vida real, y me apasiona hacer códigos. me gusta siempre seguir aprendiendo.
 
+### Hi, my name is Daniel, I'm 21 years old, I'm from Mexico, and I'm a junior data scientist. I enjoy solving real-world problems, and I'm passionate about coding. I always like to keep learning.
 
 ## Skills
 
